@@ -1,4 +1,5 @@
 # Colour Schemes by Dayle Rees.
+##编辑器主题
 
 [![Support via Gittip](https://rawgithub.com/twolfson/gittip-badge/0.1.0/dist/gittip.png)](https://www.gittip.com/daylerees)
 
